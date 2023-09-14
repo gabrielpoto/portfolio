@@ -1,0 +1,26 @@
+{
+  "About": "À propos",
+  "Work": "Experiences",
+  "Contact": "Contact",
+  "Hello": "Bonjour je suis",
+  "Description": "Développeur JavaScript React, React-Native, NodeJs",
+  "Introduction": "Introduction",
+  "OverView": "Aperçu",
+  "AboutDescription": "Développeur JavaScript Full Stack passionné avec une expertise dans la création d'applications Web robustes et évolutives.\n Je me spécialise à la fois dans le développement front-end et back-end, en tirant parti de ma solide maîtrise des frameworks JavaScript et des bibliothèques telles que React.js, Node.js et Express.js. \n Avec une base solide en HTML5, CSS3 et une conception réactive, je crée des interfaces utilisateur intuitives qui offrent des expériences utilisateur exceptionnelles.",
+  "ExperienceSoFar": "Ce que j'ai fait jusqu'à présent",
+  "Experience": "Expériences professionnelles .",
+  "MyWork": "MON TRAVAIL",
+  "Projects": "Projets",
+  "WorkDesc": "Les projets suivants mettent en valeur mes compétences et mon expérience à travers\ndes exemples concrets de mon travail. Chaque projet est brièvement décrit avec\ndes liens vers des référentiels. Cela reflète ma\ncapacité à résoudre des problèmes complexes, à travailler avec différentes technologies,\net gérer efficacement les projets..",
+  "labelName": "Ton Nom",
+  "placeholderName" : "Entrez votre Nom",
+  "labelEmail": "Ton email",
+  "placeholderEmail": "Entrez votre email",
+  "labelMessage": "Ton Message",
+  "placeholderMessage": "Entrez votre message"
+
+
+
+
+
+}
