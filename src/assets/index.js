@@ -32,7 +32,7 @@ import iocgroup from "./company/iocgroup.jpg"
 import myunisoft from "./company/myunisoft.jpg"
 
 import carrent from "./carrent.png";
-import travelapp from "./travelapp.png";
+import travelapp from "./travelApp.png";
 import next from "./nextapp.webp";
 import fastify from "./fastify.png";
 import angular from "./angular.jpeg";
