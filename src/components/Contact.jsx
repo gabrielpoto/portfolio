@@ -122,7 +122,7 @@ const Contact = () => {
 
                     <button
                         type='submit'
-                        disabled={form.name.length === 0 && form.email.length === 0 && form.message.length === 0}
+                        //disabled={form.name.length === 0 && form.email.length === 0 && form.message.length === 0}
                         className='bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary'
                     >
                         {loading ? "Sending..." : "Send"}
